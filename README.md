@@ -3,7 +3,7 @@ The VirtualEye yolo based AI model provides an in-depth look into this life-savi
 
 ## flowchart
 <p align="center">
-<img src="videos/1.png" width="290" height="440">
+<img src="1.png" width="290" height="440">
 </p>
 
 ## To run this program you can follow these steps:
