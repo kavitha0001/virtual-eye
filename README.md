@@ -11,7 +11,7 @@ The VirtualEye yolo based AI model provides an in-depth look into this life-savi
 To install the necessary packages, run
 `pip install -r requirements.txt`
 
-1. Clone the project .
+1. Clone the project
 2. Download the yolov3.weights file from this link:
    https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
 3. Then put this file inside the project folder
